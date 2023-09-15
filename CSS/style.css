@@ -439,7 +439,7 @@ span{
 
 .education-content .content p{
     font-size: 1.6rem;
-    padding-top: 5rem;
+    padding-top: 2rem;
 }
 
 .skills{
@@ -530,35 +530,35 @@ span{
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(1) .bar span{
-    width: 50%;
+    width: 90%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span{
-    width: 30%;
-}
-
-.skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
     width: 70%;
 }
 
+.skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span{
+    width: 50%;
+}
+
 .skills-column:nth-child(1) .skills-content .progress:nth-child(4) .bar span{
-    width: 90%;
+    width: 70%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
-    width: 100%;
+    width: 80%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span{
-    width: 75%;
+    width: 50%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span{
-    width: 40%;
+    width: 90%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(4) .bar span{
-    width: 90%;
+    width: 70%;
 }
 
 .contact{
