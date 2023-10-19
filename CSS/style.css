@@ -13,10 +13,10 @@
 }
 
 :root{
-    --bg-color: #03051E;
-    --second-bg-color: #0B5269;
-    --text-color: #EAE1E1;
-    --main-color: #5B9A8B;
+    --bg-color: #4244E3;
+    --second-bg-color: #E2CE27;
+    --text-color: #000000;
+    --main-color: #000000;
 }
 
 html{
@@ -89,8 +89,9 @@ section{
     align-items: center;
     padding: 0 9%;
     background: url('../images/Marco.png');
-    background-size: cover;
-    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .home-content{
@@ -542,7 +543,7 @@ span{
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(4) .bar span{
-    width: 70%;
+    width: 50%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(1) .bar span{
