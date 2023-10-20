@@ -347,10 +347,6 @@ span{
     width: 15rem;
 }
 
-.btn-box.btns{
-    background: var(--second-bg-color);
-}
-
 .education{
     display: flex;
     justify-content: center;
